@@ -1,0 +1,79 @@
+body {
+  background-color: #ffffe6;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.paddingRightStyle5 {
+  padding-right: 5%;
+}
+
+.marginRight10 {
+  margin-right: 10%;
+}
+
+.marginBottom10 {
+  margin-bottom: 10%;
+}
+
+#textNav {
+  margin: 0;
+  color: #b3a1a1;
+  letter-spacing: 15px;
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.myImage {
+  height: 30vh;
+  margin-right: 5%;
+}
+.myImage2 {
+  height: 30vh;
+  margin-left: 5%;
+}
+
+.paddingLeftRight {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.colorBrown {
+  color: #b3a1a1;
+}
+
+.colorGrey {
+  color: #a1acb3;
+}
+
+.label {
+  text-decoration: underline;
+  color: #b3a1a1;
+  text-underline-offset: 5px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-weight: 600;
+}
+
+.skill {
+  border: 3px solid #a1acb3;
+  display: inline;
+  padding: 1% 2%;
+  color: #b3a1a1;
+}
+
+.separator {
+  background-color: #b3a1a1;
+  width: 1px;
+  opacity: 0.5;
+  height: 40vh;
+}
+
+.horizontalSeperator {
+  width: 18vw;
+  border: 1px solid #b3a1a1;
+  height: 1px;
+  opacity: 0.5;
+}
