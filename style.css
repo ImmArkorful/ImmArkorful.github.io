@@ -26,6 +26,14 @@ body {
   font-weight: 600;
 }
 
+#textNavSm {
+  margin: 0;
+  color: #b3a1a1;
+  letter-spacing: 15px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
 .myImage {
   height: 30vh;
   margin-right: 5%;
